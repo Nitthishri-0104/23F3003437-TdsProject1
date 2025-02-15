@@ -1,5 +1,5 @@
-# Pro-pilot LLM Project
-The name of this LLM is Pro-pilot is a shortform of processing pilot. The core of the project is a FastAPI application that exposes endpoints for executing different types of tasks. These tasks are defined as functions and can be dynamically process and executed based on user input.
+# AutoOps AI
+  The core of the project is a FastAPI application that exposes endpoints for executing different types of tasks. These tasks are defined as functions and can be dynamically process and executed based on user input.
 
 ## Key Features
 
@@ -80,7 +80,7 @@ export OPEN_AI_EMBEDDING_URL=https://aiproxy.sanand.workers.dev/openai/v1/embedd
     curl -X POST "http://127.0.0.1:8000/run" \
         --get --data-urlencode "task=Format the contents of /data/format.md using prettier@3.4.2, updating the file in-place" \
         -H "Content-Type: application/json" \
-        --data-raw '{"email":"23f3004068@ds.study.iitm.ac.in","file":"/data/format.md"}'
+        --data-raw '{"email":"23f3003437@ds.study.iitm.ac.in","file":"/data/format.md"}'
 
     curl -X POST "http://127.0.0.1:8000/run" \
      --get --data-urlencode "task=The file /data/dates.txt contains a list of dates, one per line. Count the number of Wednesdays in the list, and write just the number to /data/dates-wednesdays.txt"\
