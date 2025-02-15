@@ -1,0 +1,31 @@
+
+      --------------------------------------
+      Error Stack:: "Error: getaddrinfo ENOTFOUND ai.freshdev.io\n\tat ne.from (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:152962)\n\tat g.<anonymous> (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:174552)\n\tat g.emit (node:events:518:28)\n\tat l.forEach.u.<computed> (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:44050)\n\tat ClientRequest.emit (node:events:530:35)\n\tat emitErrorEvent (node:_http_client:101:11)\n\tat TLSSocket.socketErrorListener (node:_http_client:504:5)\n\tat TLSSocket.emit (node:events:518:28)\n\tat emitErrorNT (node:internal/streams/destroy:169:8)\n\tat emitErrorCloseNT (node:internal/streams/destroy:128:3)\n\tat process.processTicksAndRejections (node:internal/process/task_queues:82:21)"
+      Error Message:: "getaddrinfo ENOTFOUND ai.freshdev.io"
+      Error Name:: "Error"
+      
+      
+      
+      
+      
+      
+
+      Timestamp:: Sat, 15 Feb 2025 15:22:35 GMT
+      Extension Version:: 2.2.14
+      --------------------------------------
+    
+      --------------------------------------
+      Error Stack:: "Error: Could not find fdk installed in Node v18.20.6\n\tat a.FdkHelper.checkfdkPath (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:79691)\n\tat process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n\tat async a.FdkHelper.getfdkPathFromConfig (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:79146)\n\tat async a.FdkHelper.runInBackground (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:80111)\n\tat async a.FdkHelper.getFdkVersion (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:75926)\n\tat async m.getFdkVersion (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:135574)\n\tat async m.resolveWebviewView (/Users/nselvakumar/.vscode/extensions/freshworksmarketplace.freddy-copilot-2.2.14/dist/extension.js:2:116758)\n\tat async pz.$resolveWebviewView (file:///Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:24585)"
+      Error Message:: "Could not find fdk installed in Node v18.20.6"
+      Error Name:: "Error"
+      
+      
+      
+      
+      
+      
+
+      Timestamp:: Sat, 15 Feb 2025 15:22:35 GMT
+      Extension Version:: 2.2.14
+      --------------------------------------
+    
